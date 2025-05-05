@@ -3,3 +3,8 @@
 @tailwind utilities;
 
 @import "tailwindcss";
+
+select{
+    border: none;
+    outline: none;
+  }

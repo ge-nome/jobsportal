@@ -2,7 +2,7 @@
 
 @font-face {
   font-family: robet;
-  src: url(./fonts/brick.ttf);
+  src: url(./assets/fonts/Figtree-VariableFont_wght.ttf);
 }
 *{
   font-family: robet;
@@ -11,3 +11,4 @@
 
 
 }
+
