@@ -63,6 +63,3 @@
 This project is ongoing as part of a technical interview process.
 Feedback and suggestions are welcome.
 
----
-
-Let me know if you'd like to include database schema, screenshots, or test credentials.
