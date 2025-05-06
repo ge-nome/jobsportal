@@ -64,7 +64,7 @@ Here's a concise and professional `README.md` you can use:
 
 ## 📝 Notes
 
-This project was completed as part of a technical interview process.
+This project is ongoing as part of a technical interview process.
 Feedback and suggestions are welcome.
 
 ---
