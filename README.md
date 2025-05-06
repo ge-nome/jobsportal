@@ -1,7 +1,3 @@
-Here's a concise and professional `README.md` you can use:
-
----
-
 # Jobber Portal
 
 **Jobber Portal** is a simple job posting platform built as part of a technical assignment. It allows users to view job listings and employers to post new job opportunities.
