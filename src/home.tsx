@@ -3,7 +3,7 @@ import Navbar from "./components/navbar";
 import Cardone from './components/cardone'
 import CategoryCard from './components/categorycard'
 import InfoBlock from './components/infoblock'
-import JobCard from './components/jobcard'
+import {JobCard} from './components/jobcard'
 import { useEffect, useState } from 'react'
 import Footer from './components/footer'
 import Hero from './components/hero'

@@ -1,6 +1,7 @@
 // @ts-nocheck
 const CategoryCard = ({img, title, count}) => {
-    const host = "http://localhost:5173/src/assets/imagex/"
+    const location = window.location.origin    
+    const host = location+"/src/assets/imagex/"
     
     return(
         <div>

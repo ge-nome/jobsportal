@@ -55,7 +55,7 @@ const Descjob = () => {
                                 <div className="grid">
                                     <label htmlFor="">Supplemental Pay</label>
                                 </div>
-                                <div className="h-[70px] flex flex-wrap gap-4 ">
+                                <div className="flex flex-wrap gap-4 ">
                                     <p className="p-2 px-3 rounded-full border border-[#002160] border-2 text-[#002160] cursor-pointer">+ Performance bonus</p>
                                     <p className="p-2 px-3 rounded-full border border-[#002160] border-2 text-[#002160] cursor-pointer">+ Yearly bonus</p>
                                     <p className="p-2 px-3 rounded-full border border-[#002160] border-2 text-[#002160] cursor-pointer">+ Commission pay</p>

@@ -5,7 +5,7 @@ const Hero = ({height, children}) => {
     console.log();
     
   return (
-    <div className='min-h-[600px]' style={{height:height}}>
+    <div style={{height:height}}>
         {children}
         <img src={hero} alt="" className='w-[100%] h-[100%] object-cover'/>
         

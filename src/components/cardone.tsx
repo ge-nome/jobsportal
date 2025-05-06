@@ -2,8 +2,8 @@
 import { Link } from 'react-router-dom'
 
 const Cardone = ({img, title, desc, link}) => {
-    const host = "http://localhost:5173/src/assets/imagex/"
-    console.log(link);
+    const location = window.location.origin    
+    const host = location+"/src/assets/imagex/"
     
     return(
         <div>

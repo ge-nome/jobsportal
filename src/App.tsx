@@ -12,6 +12,8 @@ import Newjob from './newjob'
 import Newjob2 from './newjob2'
 import Descjob from './descjob'
 import Descjob2 from './jobdesc2'
+import Applicants from './applicants'
+import Contact from './contact'
 
 // import Reauth from './auth'
 // import UsedContext from './auth/usercontext'
@@ -29,6 +31,8 @@ function App() {
               <Route path="/new2" element={<Newjob2/>}/>
               <Route path="/job2" element={<Descjob/>}/>
               <Route path="/job3" element={<Descjob2/>}/>
+              <Route path="/applicants" element={<Applicants/>}/>
+              <Route path="/contact" element={<Contact/>}/>
           </Routes>
         </BrowserRouter>
       {/* </UsedContext> */}
